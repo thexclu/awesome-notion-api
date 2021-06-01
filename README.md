@@ -1,12 +1,15 @@
 # awesome-notion-api
 This is a collection of awesome idea, tools, integrations build by Notion API. Notion released Notion Official API Public Beta on 13 May 2021.
+Most of the source collect from Notion API Slack Channel, Twitter and Internet.
 
 [Notion Developers Website](https://developers.notion.com)
 
 [Docs](https://developers.notion.com/reference/intro)
 
 
-
+---
+# Videos 
+1. [Workshop: Build on the Notion API by Notion](https://www.crowdcast.io/e/build-on-the-notion-api/register)
 
 ---
 
@@ -26,5 +29,9 @@ This is a collection of awesome idea, tools, integrations build by Notion API. N
 | **[Notion Help Bot](https://github.com/reycn/notion-help-bot)** |  Telegram bot using Notion as a collaborative database in Python3. | [Reynard](https://github.com/reycn/) |
 | **[Unofficial Webhooks for Notion](https://notion.hostedhooks.com/)** | Receive Webhooks from your Notion Workspace | [HostedHooks](https://hostedhooks.com) |
 | **[Notion API in Go](https://github.com/mkfsn/notion-go)** | Go Client for the Notion API | [mkfsn](https://github.com/mkfsn) |
+| **[Notion AppsScript](https://github.com/bdoherty/notion-appsscript)** | Integration works in Google Appscript | [bdoherty](https://github.com/bdoherty/) |
+| **[Gatsby Source Notion Article](https://github.com/thedaviddias/gatsby-source-notion-article)** | Gatsby Plugin for importing article from Notion | [thedaviddias](https://github.com/thedaviddias/) |
+| **[Send Selected Text to Notion](https://github.com/jkdihenkar/send-text-to-notion)** | A Chrome extendsion for sending selected text to Notion | [jkdihenkar](https://github.com/jkdihenkar/) |
+| **[Notion API in Go](https://github.com/jomei/notionapi)** | A Notion API SDK written in Golang | [jomei](https://github.com/jomei/) |
 
-Update: 19/5/2021 GMT+8
+Update: 1/6/2021 GMT+8
