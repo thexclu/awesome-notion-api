@@ -13,6 +13,7 @@ Most of the source collect from Notion API Slack Channel, Twitter and Internet.
 
 ---
 
+# Build on top of Notion API
 | Projects                                                     | Descriptions                                               | Authors                                    |
 | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------ |
 | **[Notion SDK for JS](https://github.com/makenotion/notion-sdk-js)** | Notion Official API | [MakeNotion](https://github.com/makenotion/) |
@@ -33,5 +34,13 @@ Most of the source collect from Notion API Slack Channel, Twitter and Internet.
 | **[Gatsby Source Notion Article](https://github.com/thedaviddias/gatsby-source-notion-article)** | Gatsby Plugin for importing article from Notion | [thedaviddias](https://github.com/thedaviddias/) |
 | **[Send Selected Text to Notion](https://github.com/jkdihenkar/send-text-to-notion)** | A Chrome extendsion for sending selected text to Notion | [jkdihenkar](https://github.com/jkdihenkar/) |
 | **[Notion API in Go](https://github.com/jomei/notionapi)** | A Notion API SDK written in Golang | [jomei](https://github.com/jomei/) |
+| **[Martian: Markdown to Notion Parser](https://github.com/instantish/martian)** | Convert Markdown to Notion Block | [Richard Robinson](https://github.com/rr-codes) |
+| **[Notion x Github Action](https://github.com/instantish/notion-github-action)** | Connect Github Issue to a Notion Database | [Team Instantish](https://github.com/instantish) | 
+| **[NotionQL](https://notionql.com/)** | Deploy a GraphQL API for Notion Workspace | NotionQL | 
+| **[Akwaba](https://github.com/ousmanedev/akwaba)** | A Lightweight comment platform using Notion | [Rahmane OUSMANE](https://github.com/ousmanedev) |
+| **[notion2sheet](https://notion2sheets.com/blog/notion-portfolio/)** | Notion synchronized with Google Sheets | [Lean Zubrezki](https://github.com/leandroz) |
+| **[Notion Charts](https://github.com/mathix420/notion-charts/)** | Create charts for Notion | [Arnaud Gissinger](https://github.com/mathix420) |
+| **[Productivity apps Wrapper](https://github.com/josancamon19/productivity-apps-wrapper)** | Todoist, RescueTime, Wakatime data wrapper to Notion | [Joan Cabezas](https://github.com/josancamon19) |
+| **[Notion and Google Calendar Sync](https://github.com/akarri2001/Notion-and-Google-Calendar-2-Way-Sync)** | 2 Way Sync Between a Notion Database and Google Calendar | [akarri2001](https://github.com/akarri2001) |
 
-Update: 1/6/2021 GMT+8
+Update: 29/6/2021 GMT+8
