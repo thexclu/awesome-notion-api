@@ -43,6 +43,6 @@ Most of the source collect from Notion API Slack Channel, Twitter and Internet.
 | **[Productivity apps Wrapper](https://github.com/josancamon19/productivity-apps-wrapper)** | Todoist, RescueTime, Wakatime data wrapper to Notion | [Joan Cabezas](https://github.com/josancamon19) |
 | **[Notion and Google Calendar Sync](https://github.com/akarri2001/Notion-and-Google-Calendar-2-Way-Sync)** | 2 Way Sync Between a Notion Database and Google Calendar | [akarri2001](https://github.com/akarri2001) |
 | **[Notion for Alfred](https://github.com/hkob/notion-tools-alfred-workflow)** | An Alfred workflow to add / change tasks to Notion.so | [Hiroyuki KOBAYASHI](https://github.com/hkob) |
-| **[Notion Discord Bot](https://github.com/Servatom/Notion-DiscordBot)** | A discord bot consuming Notion API to add, retrieve data to Notion databases. | [Servatom](https://github.com/Servatom）｜
+| **[Notion Discord Bot](https://github.com/Servatom/Notion-DiscordBot)** | A discord bot consuming Notion API to add, retrieve data to Notion databases. | [Servatom](https://github.com/Servatom)|
 
 Update: 28/7/2021 GMT+8
